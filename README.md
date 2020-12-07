@@ -34,7 +34,7 @@ In this project, I explored the top 100 songs and their respective albums using 
 
 ## Project 03
 
-In this project, I explored the dataset obtained from FSU’s Florida Climate Center, for a station at Tampa International Airport (TPA) from 2016 to 2017.
+In this [project](https://github.com/angel-sarmiento/dataviz-final-project/blob/main/project-03/A_Sarmiento_project_03.md), I explored the dataset obtained from FSU’s Florida Climate Center, for a station at Tampa International Airport (TPA) from 2016 to 2017.
 
 **Sample data visualization:** 
 
