@@ -23,7 +23,7 @@ In the `project_01/` folder you can find a [short project](https://github.com/an
 
 ## Project 02
 
-In this project, I explored the top 100 songs and their respective albums using the Spotify API. Find the code and report in the `project_02/` folder, or by clicking [here](https://github.com/angel-sarmiento/dataviz-final-project/tree/main/project-02/reports).
+In this project, I explored the top 100 songs and their respective albums using the Spotify API. Find the code and report in the `project_02/` folder, or by clicking [here](https://github.com/angel-sarmiento/the_past_decade_in_music/tree/master/reports).
 
 **Sample data visualization:** 
 
