@@ -38,7 +38,6 @@ In this project, I explored the dataset obtained from FSU’s Florida Climate Ce
 
 **Sample data visualization:** 
 
-_[include your favorite visualization from this project here]_
 <img src="https://github.com/angel-sarmiento/dataviz-final-project/blob/main/project-03/A_Sarmiento_project_03_files/figure-html/1f-1.png" width="80%" height="80%">
 
 
