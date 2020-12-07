@@ -23,26 +23,25 @@ In the `project_01/` folder you can find a [short project](https://github.com/an
 
 ## Project 02
 
-In this project, I explored ... _[short description of your revised project goes here]_ Find the code and report in the `project_02/` folder.
+In this project, I explored the top 100 songs and their respective albums using the Spotify API. Find the code and report in the `project_02/` folder, or by clicking [here](https://github.com/angel-sarmiento/dataviz-final-project/tree/main/project-02/reports).
 
 **Sample data visualization:** 
 
-_[include your favorite visualization from this project here]_
-<img src="https://github.com/reisanar/dataviz_final-project/figures/raw/master/fl_higher_ed.png" width="80%" height="80%">
 
-(you can also place your figures in the `figures/` folder and use the `![](path_to_picture)` option to add the pictures here)
+<img src="https://github.com/angel-sarmiento/dataviz-final-project/blob/main/project-02/reports/images/spatial_viz.png" width="80%" height="80%">
+
 
 
 ## Project 03
 
-In this project, I explored ... _[short description of your revised project goes here]_
+In this project, I explored the dataset obtained from FSU’s Florida Climate Center, for a station at Tampa International Airport (TPA) from 2016 to 2017.
 
 **Sample data visualization:** 
 
 _[include your favorite visualization from this project here]_
-<img src="https://github.com/reisanar/figs/raw/master/jackie_jessie_marion.png" width="80%" height="80%">
+<img src="https://github.com/angel-sarmiento/dataviz-final-project/blob/main/project-03/A_Sarmiento_project_03_files/figure-html/1f-1.png" width="80%" height="80%">
 
 
 ### Moving Forward
 
-_add here a short reflection on what you learned and what you plan to continue exploring in terms of data visualization, data storytelling, reproducible research, and/or related topics_
+I learned how to make interactive and spatial visualizations, refined my data wrangling skills, and worked more with APIs. In the future, I would like to explore developing dashboards and refining my website to include a lot of these projects.
