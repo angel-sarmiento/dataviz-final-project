@@ -1,8 +1,8 @@
 # Data Visualization and Reproducible Research
 
-> Firstname Lastname. 
+> Angel Sarmiento. 
 
-Learn more about me in my [GitHub profile page](link_to_profile_page)
+Learn more about me in my [GitHub profile page](https://github.com/angel-sarmiento)
 
 
 The following is a sample of products created during the _"Data Visualization and Reproducible Research"_ course in Fall 2020.
@@ -10,12 +10,13 @@ The following is a sample of products created during the _"Data Visualization an
 
 ## Project 01
 
-In the `project_01/` folder you can find... _[short description of your revised project goes here]_
+In the `project_01/` folder you can find a [short project](https://github.com/angel-sarmiento/dataviz-final-project/blob/main/project-01/report/AS_analysis_data_viz.md) creating visualizations using some data on earthquakes. This is a project using Earthquake data from across the globe since early recorded human history. It involves a series of features that include, but are not limited to, year, day, etc., deaths, location, country, and longitude/latitude.
+
 
 **Sample data visualization:** 
 
-_[include your favorite visualization from this project here]_
-<img src="https://github.com/reisanar/figs/raw/master/echarts.png" width="70%" height="70%">
+
+<img src="https://github.com/angel-sarmiento/dataviz-final-project/blob/main/project-01/report/AS_analysis_data_viz_files/figure-html/unnamed-chunk-6-1.png" width="70%" height="70%">
 
 
 
